@@ -1,0 +1,13 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "^9.2"
+    },
+    "autoload": {
+    	"psr-4": {
+    		"drmonkeyninja\\": "src/"
+    	}
+    },
+    "require": {
+        "phpunit/php-code-coverage": "^9.2"
+    }
+}
